@@ -1,8 +1,11 @@
 ﻿// For undestand of Interfaces, I'll use a common case of my actual work, PL/SQL and T-SQL variation
 
+using System;
+using System.Linq;
+using System.Globalization;
 using Oracle.ManagedDataAccess.Client;
 using Microsoft.Data.SqlClient;
-using System.Globalization;
+
 
 class Program
 {
