@@ -2214,11 +2214,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/matheus/Source/DesignPatterns/01_Interface/01_Interface.csproj",
+      "projectUniqueName": "/home/matheus/Documents/Code/DesignPatterns/01_Interface/01_Interface.csproj",
       "projectName": "01_Interface",
-      "projectPath": "/home/matheus/Source/DesignPatterns/01_Interface/01_Interface.csproj",
+      "projectPath": "/home/matheus/Documents/Code/DesignPatterns/01_Interface/01_Interface.csproj",
       "packagesPath": "/home/matheus/.nuget/packages/",
-      "outputPath": "/home/matheus/Source/DesignPatterns/01_Interface/obj/",
+      "outputPath": "/home/matheus/Documents/Code/DesignPatterns/01_Interface/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/matheus/.nuget/NuGet/NuGet.Config"

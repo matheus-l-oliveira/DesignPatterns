@@ -1,4 +1,5 @@
-﻿// For undestand of Interfaces, I'll use a common case of my actual work, PL/SQL and T-SQL variation
+﻿// Page 39 - Program to an Interface, not an Implementation
+// For undestand of Interfaces, I'll use a common case of my actual work, PL/SQL and T-SQL variation
 
 using System;
 using System.Linq;

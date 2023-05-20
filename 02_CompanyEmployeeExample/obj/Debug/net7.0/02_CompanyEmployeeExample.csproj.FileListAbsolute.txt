@@ -1,0 +1,15 @@
+/home/matheus/Documents/Code/DesignPatterns/02_CompanyEmployeeExample/obj/Debug/net7.0/02_CompanyEmployeeExample.csproj.AssemblyReference.cache
+/home/matheus/Documents/Code/DesignPatterns/02_CompanyEmployeeExample/obj/Debug/net7.0/02_CompanyEmployeeExample.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/Documents/Code/DesignPatterns/02_CompanyEmployeeExample/obj/Debug/net7.0/02_CompanyEmployeeExample.AssemblyInfoInputs.cache
+/home/matheus/Documents/Code/DesignPatterns/02_CompanyEmployeeExample/obj/Debug/net7.0/02_CompanyEmployeeExample.AssemblyInfo.cs
+/home/matheus/Documents/Code/DesignPatterns/02_CompanyEmployeeExample/obj/Debug/net7.0/02_CompanyEmployeeExample.csproj.CoreCompileInputs.cache
+/home/matheus/Documents/Code/DesignPatterns/02_CompanyEmployeeExample/bin/Debug/net7.0/02_CompanyEmployeeExample
+/home/matheus/Documents/Code/DesignPatterns/02_CompanyEmployeeExample/bin/Debug/net7.0/02_CompanyEmployeeExample.deps.json
+/home/matheus/Documents/Code/DesignPatterns/02_CompanyEmployeeExample/bin/Debug/net7.0/02_CompanyEmployeeExample.runtimeconfig.json
+/home/matheus/Documents/Code/DesignPatterns/02_CompanyEmployeeExample/bin/Debug/net7.0/02_CompanyEmployeeExample.dll
+/home/matheus/Documents/Code/DesignPatterns/02_CompanyEmployeeExample/bin/Debug/net7.0/02_CompanyEmployeeExample.pdb
+/home/matheus/Documents/Code/DesignPatterns/02_CompanyEmployeeExample/obj/Debug/net7.0/02_CompanyEmployeeExample.dll
+/home/matheus/Documents/Code/DesignPatterns/02_CompanyEmployeeExample/obj/Debug/net7.0/refint/02_CompanyEmployeeExample.dll
+/home/matheus/Documents/Code/DesignPatterns/02_CompanyEmployeeExample/obj/Debug/net7.0/02_CompanyEmployeeExample.pdb
+/home/matheus/Documents/Code/DesignPatterns/02_CompanyEmployeeExample/obj/Debug/net7.0/02_CompanyEmployeeExample.genruntimeconfig.cache
+/home/matheus/Documents/Code/DesignPatterns/02_CompanyEmployeeExample/obj/Debug/net7.0/ref/02_CompanyEmployeeExample.dll
