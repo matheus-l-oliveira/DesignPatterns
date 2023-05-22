@@ -1,45 +1,36 @@
 ﻿// Page 39 - Program to an Interface, not an Implementation
 // For undestand of Interfaces, I'll use a common case of my actual work, PL/SQL and T-SQL variation
 
-using System;
-using System.Linq;
 using System.Globalization;
 using Oracle.ManagedDataAccess.Client;
 using Microsoft.Data.SqlClient;
 
+IDatabase db;
 
-class Program
+int choice = 0;
+while (!Enumerable.Range(1, 2).Contains(choice))
 {
-    public static void Main(string[] args)
-    {
-        IDatabase db;
+    Console.Clear();
 
-        int choice = 0;
-        while (!Enumerable.Range(1, 2).Contains(choice))
-        {
-            Console.Clear();
+    Console.WriteLine("Choose the database:");
+    Console.WriteLine("1. Oracle");
+    Console.WriteLine("2. SQL Server");
 
-            Console.WriteLine("Choose the database:");
-            Console.WriteLine("1. Oracle");
-            Console.WriteLine("2. SQL Server");
-
-            int.TryParse(Console.ReadLine(), NumberStyles.Integer, default, out choice);
-        }
-
-        switch (choice)
-        {
-            case 1:
-                db = new OracleDatabase();
-                break;
-            default:
-                db = new SqlServerDatabase();
-                break;
-        }
-
-        if (db.HasConnection()) Console.WriteLine("\nHas connection");
-        else Console.WriteLine("\nHasn't connection");
-    }
+    int.TryParse(Console.ReadLine(), NumberStyles.Integer, default, out choice);
 }
+
+switch (choice)
+{
+    case 1:
+        db = new OracleDatabase();
+        break;
+    default:
+        db = new SqlServerDatabase();
+        break;
+}
+
+if (db.HasConnection()) Console.WriteLine("\nHas connection");
+else Console.WriteLine("\nHasn't connection");
 
 interface IDatabase
 {
